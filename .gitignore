@@ -1,0 +1,21 @@
+# Claude Code session files
+.claude/
+
+# VS Code workspace settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Dependencies (not applicable now but future-proof)
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Environment files
+.env
+.env.local
